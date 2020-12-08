@@ -1,0 +1,21 @@
+h1{
+    text-align: center;   
+}
+h6{
+    text-align: center;
+    color: gray;
+}
+a{
+    text-decoration: none;
+}
+p{
+    text-indent: 2rem;
+}
+.pic{
+    text-align: center;
+}
+.auther{
+    text-indent: 2rem;
+    color: gray;
+    font-size: 5px;
+}
