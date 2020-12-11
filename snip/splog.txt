@@ -499,4 +499,75 @@
 [2020-12-03 13:47:42.259] [I] Snipper: about to appear...
 [2020-12-03 13:47:42.259] [I] Snipper: prepare to show...
 [2020-12-03 13:47:42.279] [I] Snipper: shown
-[2020-12-03 13:47:42.296] [I] Sn
+[2020-12-03 13:47:42.296] [I] Sn[2020-12-10 18:12:13.067] [I] ***************************************************************
+[2020-12-10 18:12:13.067] [I] Snipaste 2.5.5-Beta x64 (Desktop) (Qt 5.12.6)
+[2020-12-10 18:12:13.067] [I] OS: Windows 10 (10.0) [10.0.19041]
+[2020-12-10 18:12:13.067] [I] Cores: 4
+[2020-12-10 18:12:13.067] [I] Elevated: true
+[2020-12-10 18:12:13.067] [I] Main thread id: 0x5a8
+[2020-12-10 18:12:13.067] [I] Log level: 2
+[2020-12-10 18:12:13.067] [I] Application dir: D:/css/snip
+[2020-12-10 18:12:13.067] [I] Working dir: D:/css/snip
+[2020-12-10 18:12:13.067] [I] Config: D:/css/snip/config.ini
+[2020-12-10 18:12:13.067] [I] Library paths: (D:/css/snip)
+[2020-12-10 18:12:13.067] [I] Screen scale: 1.0
+[2020-12-10 18:12:13.067] [I] Retina factor: 1.0
+[2020-12-10 18:12:13.067] [I] Screens: 1
+[2020-12-10 18:12:13.067] [I]     QRect(0, 0, 1920 x 1080), DPI = 96.0 , DPR = 1.0
+[2020-12-10 18:12:13.084] [I] Desktops: 1
+[2020-12-10 18:12:13.084] [I] About to import settings from: D:/css/snip/config.ini
+[2020-12-10 18:12:13.138] [I] Settings imported
+[2020-12-10 18:12:13.139] [I] Breakpad initialized
+[2020-12-10 18:12:13.140] [I] Process priority: 1
+[2020-12-10 18:12:13.140] [I] Initializing Snipaste...
+[2020-12-10 18:12:13.600] [I] Prefetch...
+[2020-12-10 18:12:13.609] [I] Preloaded 20 files: 9 ms
+[2020-12-10 18:12:13.614] [I] About to apply settings...
+[2020-12-10 18:12:13.620] [I] Load default ssl configuration: 20 ms
+[2020-12-10 18:12:13.663] [I] Settings applied
+[2020-12-10 18:12:13.674] [I] Log level set to: 2
+[2020-12-10 18:12:13.700] [I] History dir: D:/css/snip/history
+[2020-12-10 18:12:13.701] [I] Header version: 185
+[2020-12-10 18:12:13.701] [I] About to restore pasters...
+[2020-12-10 18:12:13.701] [I] Group 0 [NZVEFC]: "默认"
+[2020-12-10 18:12:13.701] [I] Record version: 185
+[2020-12-10 18:12:13.701] [I] To restore: 0
+[2020-12-10 18:12:13.701] [I] Pasters touched
+[2020-12-10 18:12:13.701] [I] All pasters activated: true
+[2020-12-10 18:12:13.761] [I] Unref images: 0 (0 removed)
+[2020-12-10 18:12:13.761] [I] Unref dirs: 0 (0 removed)
+[2020-12-10 18:12:13.762] [I] Empty history info files: 0 (0 removed)
+[2020-12-10 18:12:13.762] [I] Pasters restored
+[2020-12-10 18:12:13.762] [I] Launch time: 698 ms
+[2020-12-10 18:12:14.622] [I] Parsing command arguments [1]: (sp, snip)
+[2020-12-10 18:12:14.622] [I] Snip request: 0 (dest: 0)
+[2020-12-10 18:12:14.622] [I] Snipper: preparing...
+[2020-12-10 18:12:14.729] [I] Screens: 1
+[2020-12-10 18:12:14.729] [I]     QRect(0, 0, 1920 x 1080), DPI = 96.0 , DPR = 1.0
+[2020-12-10 18:12:14.729] [I] Desktop: QRect(0, 0, 1920 x 1080)
+[2020-12-10 18:12:14.729] [I] Background size: QSize(1920, 1080)
+[2020-12-10 18:12:14.802] [I] Focus set
+[2020-12-10 18:12:14.911] [I] Snipper: preparation done (0)
+[2020-12-10 18:12:14.974] [I] Snipper: about to appear...
+[2020-12-10 18:12:14.975] [I] Snipper: prepare to show...
+[2020-12-10 18:12:15.312] [I] Snipper: shown
+[2020-12-10 18:12:15.332] [I] Snipper: focus in
+[2020-12-10 18:12:15.333] [I] Snipper: ready [0.71 s]
+[2020-12-10 18:12:33.938] [I] Screenshot (1372, 241, 227 x 301) destination: clipboard, 
+[2020-12-10 18:12:33.952] [I] Screenshot successfully saved: clipboard, 
+[2020-12-10 18:12:33.952] [I] Snipper: about to quit...
+[2020-12-10 18:12:33.955] [I] Snipper: focus out [3]
+[2020-12-10 18:12:33.957] [I] Snipper: hidden
+[2020-12-10 18:12:33.959] [I] Snipper: quit
+[2020-12-10 18:12:34.217] [I] Snipper: scene saved
+[2020-12-10 18:12:37.846] [I] Parsing command arguments [1]: (sp, snip)
+[2020-12-10 18:12:37.846] [I] Snip request: 0 (dest: 0)
+[2020-12-10 18:12:37.846] [I] Snipper: preparing...
+[2020-12-10 18:12:37.889] [I] Screens: 1
+[2020-12-10 18:12:37.889] [I]     QRect(0, 0, 1920 x 1080), DPI = 96.0 , DPR = 1.0
+[2020-12-10 18:12:37.889] [I] Desktop: QRect(0, 0, 1920 x 1080)
+[2020-12-10 18:12:37.889] [I] Background size: QSize(1920, 1080)
+[2020-12-10 18:12:37.909] [I] Focus set
+[2020-12-10 18:12:37.910] [I] Snipper: preparation done (0)
+[2020-12-10 18:12:37.910] [I] Snipper: about to appear...
+[
