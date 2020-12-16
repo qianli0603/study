@@ -5,6 +5,17 @@
 body {
     background-color: #f3f5f7;
 }
+/*清除浮动的处理方法*/
+.clearfix:before,.clearfix:after {
+    content:"";
+    display:table; 
+  }
+  .clearfix:after {
+    clear:both;
+  }
+  .clearfix {
+     *zoom:1;
+  } 
 a {
     text-decoration: none;
 }
@@ -182,7 +193,6 @@ ul li {
     color:#22b0ff;
 }
 .recommend {
-    height:600px;
     margin-top: 35px;
 }
 .recommend_title {
@@ -202,7 +212,6 @@ ul li {
 }
 .goods_list {
     width: 1225px;
-    height: 560px;
 }
 .goods_list ul li {
     width: 228px;
@@ -228,4 +237,40 @@ ul li {
     font-size: 12px;
     display: inline-block;
     margin-left: 10px;
+}
+.footer .w {
+    height: 420px;
+    background-color: #fff;
+    padding-top: 30px;
+    padding-left: 20px;
+    box-sizing:border-box
+}
+.copyright {
+    width: 500px;
+    float: left;
+}
+.copyright p {
+    margin-top: 20px;
+    color: #a5a5a5;
+    font-size: 14px;
+}
+.copyright a {
+    display: block;
+    width: 118px;
+    height: 38px;
+    border: 1px solid #22b0ff;
+    line-height: 38px;
+    text-align: center;
+    margin-top: 20px;
+    color: #22b0ff;
+}
+.contact {
+    float: right;
+}
+.contact dl {
+    float: left;
+    margin-left: 120px;
+}
+.contact dl:last-child{
+    margin-right: 45px;
 }
