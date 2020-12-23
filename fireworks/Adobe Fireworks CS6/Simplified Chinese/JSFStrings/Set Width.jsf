@@ -1,0 +1,5 @@
+﻿// English
+
+var __tooltips = new Object();
+
+__tooltips["alrtmsg"] = "文本字段宽度（像素；0 表示自动）";

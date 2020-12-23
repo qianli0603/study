@@ -1,0 +1,9 @@
+﻿// English
+
+var __tooltips = new Object();
+
+__tooltips["perspective"] = "透视";
+__tooltips["innerradiusrear"] = "内径 - 后面";
+__tooltips["innerradiusfront"] = "内径 - 前面";
+__tooltips["offset"] = "偏移";
+__tooltips["reset"] = "单击以重置偏移";

@@ -1,0 +1,8 @@
+﻿// English
+
+var __tooltips = new Object();
+
+__tooltips["verticalplane"] = "删除标签";
+__tooltips["vanishingpoints"] = "消失点";
+__tooltips["hide"] = "隐藏或调整网格";
+__tooltips["drag"] = "拖动以调整网格";

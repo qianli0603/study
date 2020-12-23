@@ -1,0 +1,23 @@
+﻿// English
+
+var __tooltips = new Object();
+
+__tooltips["figure"] = "人体";
+__tooltips["torso"] = "躯体";
+__tooltips["head"] = "标头";
+__tooltips["lshoulder"] = "左肩";
+__tooltips["lelbow"] = "左肘";
+__tooltips["lwrist"] = "左腕";
+__tooltips["lhand"] = "左手";
+__tooltips["rshoulder"] = "右肩";
+__tooltips["relbow"] = "右肘";
+__tooltips["rwrist"] = "右腕";
+__tooltips["rhand"] = "右手";
+__tooltips["lhip"] = "左臀";
+__tooltips["lknee"] = "左膝";
+__tooltips["lankle"] = "左踝";
+__tooltips["lfoot"] = "左脚";
+__tooltips["rhip"] = "右臀";
+__tooltips["rknee"] = "右膝";
+__tooltips["rankle"] = "右踝";
+__tooltips["rfoot"] = "右脚";

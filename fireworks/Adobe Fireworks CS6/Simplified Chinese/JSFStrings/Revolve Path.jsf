@@ -1,0 +1,8 @@
+﻿// English
+
+var __tooltips = new Object();
+
+__tooltips["centerpoint"] = "中心点";
+__tooltips["radius"] = "半径";
+__tooltips["division"] = "区域";
+__tooltips["point"] = "点";

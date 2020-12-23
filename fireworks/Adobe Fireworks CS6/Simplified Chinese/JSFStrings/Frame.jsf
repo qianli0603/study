@@ -1,0 +1,8 @@
+﻿// English
+
+var __tooltips = new Object();
+
+__tooltips["WidthToolTip"] = "帧宽度";
+__tooltips["FillToolTip"] = "填充图案";
+__tooltips["RepositionToolTip"] = "拖动以重新置于其它对象上";
+__tooltips["cornerToolTip"] = "单击以切换边角";

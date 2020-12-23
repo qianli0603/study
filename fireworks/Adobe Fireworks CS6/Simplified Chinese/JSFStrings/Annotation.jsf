@@ -1,0 +1,10 @@
+﻿
+// English
+
+var __tooltips = new Object();
+
+__tooltips["defaultText"] = "使用“文本”或“部分选定”工具编辑此文本。";
+__tooltips["openAnnotation"] = "打开批注";
+__tooltips["move"] = "移动";
+__tooltips["close"] = "关闭";
+__tooltips["resize"] = "调整大小";

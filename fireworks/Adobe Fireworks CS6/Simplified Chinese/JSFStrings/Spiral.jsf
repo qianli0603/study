@@ -1,0 +1,6 @@
+﻿// English
+
+var __tooltips = new Object();
+
+__tooltips["openclose"] = "打开/关闭螺旋形";
+__tooltips["spirals"]   = "螺旋";

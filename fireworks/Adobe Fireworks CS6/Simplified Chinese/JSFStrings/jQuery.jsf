@@ -1,0 +1,16 @@
+﻿// English
+
+var __jQuerytooltips = new Object();
+
+__jQuerytooltips["missingFonts"] = "缺少的字体已使用 Helvetica、Arial、sans-serif 字体系列替换";
+__jQuerytooltips["overwrite"] = /*File name*/"已存在。是否要替换它？";
+__jQuerytooltips["active"] = "请打开有效的 jQuery 模板并重试。";
+__jQuerytooltips["fileName"] = "输入 CSS 文件名。";
+__jQuerytooltips["folderName"] = "输入 Sprite 文件夹名称。";
+__jQuerytooltips["filePermission"] = "您没有在此位置保存的权限。请与管理员联系以获得权限。";
+__jQuerytooltips["nojQueryData"] = "此文件不包含任何 jQuery 数据。是否要导出该文件？" ;
+__jQuerytooltips["missingTemplate"] = "缺少模板文件。";
+__jQuerytooltips["enterIconName"] = "请输入图标名称。";
+__jQuerytooltips["invalidIconName"] = "请输入有效的图标名称。";
+__jQuerytooltips["cannotAddIcon"] = "无法创建图标占位符。请打开有效的 jQuery 模板并重试。";
+__jQuerytooltips["cannotExportSprites"] = "无法为 jQuery 主题导出 Sprite。";

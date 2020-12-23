@@ -1,0 +1,5 @@
+﻿// English
+
+var __tooltips = new Object();
+
+__tooltips["message"] = "此命令将重置所有的“不再显示此对话框”警告框，使之按照需要重新显示。";

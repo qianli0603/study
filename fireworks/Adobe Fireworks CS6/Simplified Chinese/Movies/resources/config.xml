@@ -1,0 +1,172 @@
+﻿<?xml version="1.0"?>
+<startpage version="2.0">
+  <layout>
+    <!-- list of the columns used -->
+    <column>
+      <!--can be one of recentitems, newitems or sampleitems-->
+      <recentitems max="9"/>
+    </column>
+    <column>
+      <!--can be one of recentitems, newitems or sampleitems-->
+      <newitems max="2"/>
+      <extenditems max="1"/>
+    </column>
+  </layout>
+
+  <strings>
+    <!-- list all strings used-->
+    <!-- used for default content when no internet connection is detected -->
+		<productname>Adobe</productname>
+		<nointernethead> ® Fireworks® CS6</nointernethead>
+    <nointernetmain>学习更多关于 CSS 提取、创建 CSS 子画面以及在 CS6 中浏览 jQuery 主题的知识。</nointernetmain>
+
+    <!-- column 1: open -->
+    <openrecentitem>打开最近的项目</openrecentitem>
+    <open>打开...</open>
+
+    <!-- column 2: new -->
+    <createnew>新建</createnew>
+    <fireworksdocument>Fireworks 文档 (PNG)</fireworksdocument>
+    <more>更多...</more>
+
+    <!-- column 3: templates and extend -->
+    <createfromtemplates>基于模板的文档 (PNG)</createfromtemplates>
+    <extend>扩展</extend>
+
+    <!-- don't show again checkbox at the bottom-->
+    <dontshowagain>不再显示</dontshowagain>
+    <checkboxalert>要显示“欢迎屏幕”，请在“首选项”对话框的“常规”类别中选择“显示欢迎屏幕”。</checkboxalert>
+
+    <!-- these are live urls on the screen-->
+    <exchange>Fireworks Exchange »</exchange>
+    <quicktour>快速入门 »</quicktour>
+    <tutorial>新增功能 »</tutorial>
+    <training>资源 »</training>
+
+    <!-- used for issuing MMExecute JS commands -->
+    <appobject>fw</appobject>
+
+    <!-- just for testing -->
+    <dummylist>This is a list for testing which was made longer </dummylist>
+
+    <!-- list of localizable weblinks -->
+    <urlexchange>http://www.adobe.com/go/fireworks_exchange_cn</urlexchange>
+    <urlquicktour>http://www.adobe.com/go/fireworks_gettingstarted_cn</urlquicktour>
+    <urltutorial>http://www.adobe.com/go/fireworks_whatsnew_cn</urltutorial>
+    <urltraining>http://www.adobe.com/go/fireworks_training_cn</urltraining>
+    <urlshim>https://www.adobe.com/startpage/fw.swf</urlshim>
+    <localshim>resources/defaultdynswf.swf</localshim>
+  </strings>
+
+  <resources>
+    <!-- list of image resources -->
+    <banner>resources/images/banner.png</banner>
+    <bglist>resources/images/background-list.png</bglist>
+    <iconfolder>resources/images/folder.png</iconfolder>
+    <iconapp>resources/images/icon_app.png</iconapp>
+    <iconappxl>resources/images/appicon_xl.png</iconappxl>
+    <icondoc>resources/images/appicondoc.png</icondoc>
+    <icondocsecondary>resources/images/appicondocsec.png</icondocsecondary>
+    <icondochelp>resources/images/icon_help.png</icondochelp>
+    <exchangeicon>resources/images/appicon_exman.png</exchangeicon>
+    <helpdocicon>resources/images/icon_helpdoc.png</helpdocicon>
+    <buttonhover>resources/images/btn_hover.png</buttonhover>
+    <vsepline>resources/images/sep_v.png</vsepline>
+    <hsepline>resources/images/sep_h.png</hsepline>
+  </resources>
+
+  <filetypes>
+    <!-- links extensions to images and names-->
+    <!-- fticon maps to a resource in the image resources list above-->
+    <type>
+      <ftextension>png</ftextension>
+      <fticon>icondoc</fticon>
+    </type>
+    <type>
+      <ftextension>gif</ftextension>
+      <fticon>icondocsecondary</fticon>
+    </type>
+    <type>
+      <ftextension>jpg</ftextension>
+      <fticon>icondocsecondary</fticon>
+    </type>
+  </filetypes>
+
+  <dimensions>
+    <dialog>
+      <w>650</w>
+      <h>500</h>
+    </dialog>
+    <icon>
+      <w>16</w>
+      <h>16</h>
+    </icon>
+    <prodicon>
+      <w>48</w>
+      <h>48</h>
+    </prodicon>
+    <header>
+      <w>650</w>
+      <h>104</h>
+    </header>
+    <footer>
+      <w>650</w>
+      <h>24</h>
+    </footer>
+    <listarea>
+      <w>650</w>
+      <h>262</h>
+    </listarea>
+    <linksarea>
+      <w>650</w>
+      <h>110</h>
+    </linksarea>
+    <itemline>
+      <w>180</w>
+      <h>22</h>
+    </itemline>
+    <headline>
+      <w>180</w>
+      <h>27</h>
+    </headline>
+    <paddingoverall>
+      <w>16</w>
+      <h>15</h>
+    </paddingoverall>
+    <indentitemline>
+      <w>8</w>
+      <h>0</h>
+    </indentitemline>
+  </dimensions>
+
+  <colors>
+    <cbackground>FFFFFF</cbackground>
+    <clinksarea>FFFFFF</clinksarea>
+    <cfooter>EEEEEE</cfooter>
+  </colors>
+
+  <fonts>
+    <headline>
+      <name>宋体-18030</name>
+      <size>13</size>
+      <bold>true</bold>
+      <italic>false</italic>
+      <!--1E364F-->
+      <color>555555</color>
+    </headline>
+    <itemline>
+      <name>宋体-18030</name>
+      <size>11</size>
+      <bold>false</bold>
+      <italic>false</italic>
+      <color>000000</color>
+    </itemline>
+    <itemlineemph>
+      <name>宋体-18030</name>
+      <size>11</size>
+      <bold>true</bold>
+      <italic>false</italic>
+      <color>000000</color>
+    </itemlineemph>
+  </fonts>
+</startpage>

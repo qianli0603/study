@@ -1,0 +1,15 @@
+﻿//English
+
+var __tooltips = new Object();
+var __customdata = new Object();
+
+__tooltips["head"] = "标头";
+__tooltips["of"] = "的";
+__tooltips["resize"] = "调整大小";
+
+__customdata["head1"] = "标头1";
+__customdata["head2"] = "标头2";
+__customdata["tail"] = "结尾";
+__customdata["box"] = "框";
+__customdata["none"] = "无";
+

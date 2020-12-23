@@ -1,0 +1,8 @@
+﻿// English
+
+var __tooltips = new Object();
+
+__tooltips["width"] = "帧宽度";
+__tooltips["overhang"] = "突出部分";
+__tooltips["drag"] = "拖动以重新置于其它对象上";
+__tooltips["resize"] = "调整大小";

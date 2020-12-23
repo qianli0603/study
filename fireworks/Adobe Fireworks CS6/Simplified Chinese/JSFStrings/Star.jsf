@@ -1,0 +1,13 @@
+﻿// English
+
+var __tooltips = new Object();
+var __alertMessage = new Object();
+
+__tooltips["points"]    = "点";
+__tooltips["roundness1"] = "圓度 1";
+__tooltips["roundness2"] = "圓度 2";
+__tooltips["radius0"] = "半径 1";
+__tooltips["radius1"] = "半径 2";
+
+__alertMessage["maxmsg"] = "Star Autoshape can have maximum 50 points";
+__alertMessage["minmsg"] = "Star Autoshape should have atleast 3 points";

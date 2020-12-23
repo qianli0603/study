@@ -1,0 +1,6 @@
+﻿// English
+
+var __tooltips = new Object();
+
+__tooltips["len"] = "长度";
+__tooltips["ang"] = "角度";

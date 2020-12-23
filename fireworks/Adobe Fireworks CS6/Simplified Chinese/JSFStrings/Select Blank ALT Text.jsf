@@ -1,0 +1,5 @@
+﻿// English
+
+var __tooltips = new Object();
+
+__tooltips["message"] = "未找到具有空白 ALT 文字的切片或热点。";

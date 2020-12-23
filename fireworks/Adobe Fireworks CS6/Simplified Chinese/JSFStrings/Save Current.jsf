@@ -1,0 +1,5 @@
+﻿// English
+
+var __tooltips = new Object();
+
+__tooltips["filename"] = "为工作区布局命名。";

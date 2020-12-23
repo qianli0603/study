@@ -1,0 +1,8 @@
+﻿// English
+
+var __tooltips = new Object();
+
+__tooltips["delete"] = "删除标签";
+__tooltips["add"] = "添加标签";
+__tooltips["hue"] = "色相";
+__tooltips["enter"] = "请输入介于 0 和 360 之间的新色相值";

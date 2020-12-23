@@ -1,0 +1,8 @@
+﻿// English
+
+var __tooltips = new Object();
+
+__tooltips["offset"] = "帧偏移";
+__tooltips["size"] = "角大小";
+__tooltips["drag"] = "拖动以重新置于其它对象上";
+__tooltips["resize"] = "调整大小";

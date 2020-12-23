@@ -1,0 +1,7 @@
+﻿// English
+
+var __tooltips = new Object();
+
+__tooltips["center"] = "居中";
+__tooltips["curveradius"] = "曲线半径";
+__tooltips["sides"] = "边";

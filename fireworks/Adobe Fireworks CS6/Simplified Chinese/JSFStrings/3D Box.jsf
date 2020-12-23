@@ -1,0 +1,9 @@
+﻿
+// English
+
+var __tooltips = new Object();
+
+__tooltips["rotation"] = "旋转/透视";
+__tooltips["rotate"] = "旋转";
+__tooltips["focallength"] = "焦距";
+__tooltips["none"] = "（无）";

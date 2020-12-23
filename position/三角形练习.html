@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        .box {
+            position: relative;
+            width: 0;
+            height: 0;
+            line-height: 0;
+            font-size: 0;
+            border: 100px solid skyblue;
+            margin: 100px auto;
+        }
+
+        .little_box {
+            position: absolute;
+            top: -120px;
+            left: 50%;
+            margin-left: -5px;
+            width: 0;
+            height: 0;
+            line-height: 0;
+            font-size: 0;
+            border: 10px solid skyblue;
+            border-top: 10px solid transparent;
+            border-right: 10px solid transparent;
+            border-left: 10px solid transparent;
+            /* border-bottom: 10px solid skyblue; */
+        }
+    </style>
+</head>
+
+<body>
+    <div class="box">
+        <div class="little_box">
+
+        </div>
+    </div>
+</body>
+
+</html>

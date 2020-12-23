@@ -1,0 +1,9 @@
+﻿// English
+
+var __tooltips = new Object();
+
+__tooltips["shapeName"]   = "阴影";
+__tooltips["perspective"] = "透视; 单击以重置";
+__tooltips["direction"]   = "方向; 单击以重置";
+__tooltips["invalid"]     = "此命令要求选择 Path 或 Text 对象，或选取框。";
+__tooltips["bitmap"]      = "位图需要选取框。";

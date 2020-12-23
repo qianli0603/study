@@ -1,0 +1,11 @@
+﻿// English
+
+var __tooltips = new Object();
+
+__tooltips["reset"] = "重置内径";
+__tooltips["height"] = "齿轮高度";
+__tooltips["depth"] = "齿轮深度";
+__tooltips["cogs"] = "齿轮";
+__tooltips["outershape"] = "外部形状";
+__tooltips["innershape"] = "内部形状";
+__tooltips["innerradius"] = "内径";
