@@ -1,7 +1,0 @@
-﻿// English
-
-var __tooltips = new Object();
-
-__tooltips["arch"] = "弧形";
-__tooltips["radius"] = "半径";
-__tooltips["hollow"] = "空心";

@@ -1,9 +1,0 @@
-﻿// English
-
-var __tooltips = new Object();
-
-__tooltips["px"]    = "px";
-__tooltips["inch"] = "英寸";
-__tooltips["drag"] = "拖动";
-__tooltips["length"] = "长度:";
-__tooltips["angle"] = "角度:";

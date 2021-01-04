@@ -1,8 +1,0 @@
-﻿// English
-
-var __tooltips = new Object();
-
-__tooltips["missingFont"] = "您的系统上没有此文档中文本所使用的字体。";
-__tooltips["oldText"] = "此文件包含使用早期版本的 Fireworks 创建的文本。";
-__tooltips["exportAsBitmap"] = "单击“确定”可将所有此类文本导出为图像。";
-__tooltips["fileName"] = "输入文件名。";

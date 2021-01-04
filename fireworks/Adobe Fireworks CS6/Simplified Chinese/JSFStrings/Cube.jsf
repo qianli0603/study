@@ -1,7 +1,0 @@
-﻿// English
-
-var __tooltips = new Object();
-
-__tooltips["perspective"] = "透视";
-__tooltips["offset"] = "偏移";
-__tooltips["reset"] = "单击以重置偏移";

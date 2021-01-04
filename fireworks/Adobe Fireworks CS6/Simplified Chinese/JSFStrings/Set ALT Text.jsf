@@ -1,6 +1,0 @@
-﻿// English
-
-var __tooltips = new Object();
-
-__tooltips["alertMessage"] = "未找到空白 ALT 文字";
-__tooltips["promptMessage"] = "此命令可为未在“对象”对话框或“HTML 设置”对话框中指定 ALT 文字的热点或切片输入 ALT 文字。输入 ALT 文字:";

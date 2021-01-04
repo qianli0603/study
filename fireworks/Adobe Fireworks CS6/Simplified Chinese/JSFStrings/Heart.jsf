@@ -1,8 +1,0 @@
-﻿// English
-
-var __tooltips = new Object();
-
-__tooltips["breadth"] = "幅度";
-__tooltips["cleft"] = "裂缝";
-__tooltips["vertex"] = "顶点";
-__tooltips["vertexarc"] = "顶点弧形";

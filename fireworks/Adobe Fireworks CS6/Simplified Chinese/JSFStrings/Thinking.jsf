@@ -1,7 +1,0 @@
-﻿// English
-
-var __tooltips = new Object();
-
-__tooltips["direction"] = "方向";
-__tooltips["curvature"] = "曲度";
-__tooltips["distance"] = "距离";
