@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        // 1. 用函数求任意两个数字的和;
+        // function sum(num1, num2) {
+        //     return num1 + num2;
+        // }
+        // console.log(sum(1, 2));
+        // 2. 用函数求任意两个数字之间的和;
+
+        // function sum(num1, num2) {
+        //     var num3 = 0;
+        //     for (var i = num1; i <= num2; i++) {
+        //         num3 += i;
+        //     }
+        //     return num3;
+        // }
+        // console.log(sum(1, 200));
+        // 3. 用函数求任意两数字的最大值;
+        // function sum(num1, num2) {
+        //     return num1 > num2 ? num1 : num2;
+        // }
+        // console.log(sum(20100, 200));
+        // 4. 用函数求数组中最大的数;
+        // var arr = ['10', '8', '5', '4', '6', '40', '100', '500']
+
+        // function getMax(arr) {
+        //     var max = arr[0];
+        //     for (var i = 1; i <= arr.length; i++) {
+        //         if (arr[i] > max) {
+        //             max = arr[i];
+        //         }
+        //     }
+        //     return max
+        // }
+        // console.log(getMax([10, 8, 5, 4, 6, 40, 100, 500]));
+        // function max(arr) {
+        //     // console.log(arr);
+        //     var num = arr[0];
+        //     for (var i = 1; i <= arr.length; i++) {
+        //         if (arr[i] > num) {
+        //             num = arr[i];
+        //         }
+        //     }
+        //     return num;
+        // }
+        // console.log(max([1, 2, 3, 4, 5, 6]));
+        // function sum() {
+        //     console.log(arguments);
+        // }
+        // sum(1, 2, 3, 4, 5);
+        // function getMax() {
+        //     return arguments[0] > arguments[1] ? arguments[0] : arguments[1]
+        // }
+        // console.log(getMax(200, 20));
+        // function getMax() {
+        //     var max = arguments[0];
+        //     for (var i = 1; i < arguments.length; i++) {
+        //         if (arguments[i] > max) {
+        //             max = arguments[i];
+        //         }
+        //     }
+        //     return max;
+        // }
+        // console.log(getMax(200, 20, 5, 1, 51, 514, 5415, 15, 15, 50));
+        // 5.函数求数组中最大的数字
+        // function getMax(arr) {
+        //     var max = arr[0];
+        //     for (var i = 1; i < arr.length; i++) {
+        //         console.log(i);
+        //         console.log(arr[i]);
+        //         if (arr[i] > max) {
+        //             max = arr[i]
+        //         }
+        //     }
+        //     return max
+        // }
+        // var arr1 = getMax([5, 8, 3, 9, 10, 4, 25, 60]);s
+        // console.log(arr1);
+        // 6.翻转数组的原理
+        // arr = [1,2,3,4]
+        // nweArr = [4,3,2,1]
+        // 原理 新数组的第一个newArr[1] = 旧数组 arr[4] 以此类推 
+        // 利用循环 一次替换 newArr[i] 个
+        // function res(arr) {
+        //     var newArr = [];
+        //     for (var i = arr.length - 1; i >= 0; i--) {
+        //         newArr[newArr.length] = arr[i];
+        //         // console.log(i);
+        //     }
+        //     return newArr;
+        // }
+        // var arr1 = res([1, 2, 3, 4, 5])
+        // console.log(arr1);
+        // for (var i = 0; i <= 5; i++) {
+        //     console.log(i);
+        //     for (var j = 0; j <= 10; j++) {
+        //         console.log(j);
+        //     }
+        // }
+        // 乘法口诀
+        var str = '';
+        for (var i = 1; i <= 9; i++) {
+            // console.log(i);
+            for (var j = 1; j <= i; j++) {
+                console.log(j);
+                str += j + '*' + i + '=' + i * j + '\t';
+            }
+            str += '\n';
+        }
+        // document.write(str);
+        console.log(str);
+        // 函数求两个数字的和;
+        function sum(num1, num2) {
+            console.log(num1 + num2);
+        }
+        sum(10, 30);
+    </script>
+</body>
+
+</html>

@@ -9,33 +9,51 @@
 
 <body>
     <script>
-        var num = 123;
-        var str = '字符串类型';
-        var bulo = false;
-        var undenfind;
-        var n = null;
-        console.log(typeof(num));
-        console.log(typeof(str));
-        console.log(typeof(bulo));
-        console.log(typeof(undenfind));
-        console.log(typeof(n));
-        var age;
-        var num1 = prompt();
-        age = num1;
-        alert('你今年' + age + '岁了')
-        var age = prompt('请输入数字');
-        var str = age;
-        alert('你今年' + age + '岁');
-        var nowYear = 2021;
-        var birthday = prompt('请输入你的出生年份');
-        var userYear = nowYear - birthday;
-        alert('您的年龄为' + userYear);
-        计算器
-        var firstName = prompt('请输入第一个值');
-        var secondName = prompt('请输入第二个值');
-        var result = parseInt(firstName) + parseInt(secondName);
-        var newNumber = parseInt(result);
-        alert('结果为' + newNumber);
+        // var num = 123;
+        // var str = '字符串类型';
+        // var bulo = false;
+        // var undenfind;
+        // var n = null;
+        // console.log(typeof(num));
+        // console.log(typeof(str));
+        // console.log(typeof(bulo));
+        // console.log(typeof(undenfind));
+        // console.log(typeof(n));
+        // var age;
+        // var num1 = prompt();
+        // age = num1;
+        // alert('你今年' + age + '岁了')
+        // var age = prompt('请输入数字');
+        // var str = age;
+        // alert('你今年' + age + '岁');
+        // var nowYear = 2021;
+        // var birthday = prompt('请输入你的出生年份');
+        // var userYear = nowYear - birthday;
+        // alert('您的年龄为' + userYear);
+        // 计算器
+        // var firstName = prompt('请输入第一个值');
+        // var secondName = prompt('请输入第二个值');
+        // var result = parseInt(firstName) + parseInt(secondName);
+        // var newNumber = parseInt(result);
+        // alert('结果为' + newNumber);
+        // var age = prompt('请输入年龄');
+        // if (age >= 18) {
+        //     alert('恭喜你你可以进网吧')
+        // } else {
+        //     alert('抱歉，你太小了')
+        // }.
+        // var test = true;
+        // if (test) {
+        //     test = false;
+        //     alert(test);
+        //     console.log(test);
+        // }
+        var year = prompt('请输入年份');
+        if (year % 4 == 0 && year % 100 !== 0 || year % 400 == 0) {
+            alert(year + '是闰年');
+        } else {
+            alert(year + '不是闰年');
+        }
     </script>
 </body>
 
